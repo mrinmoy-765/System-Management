@@ -1,4 +1,4 @@
-# SinodTech — Sales, Inventory & CRM System
+#  Sales, Inventory & CRM System
 
 A business application for managing products, sales, customer relationships, and employee KPI tracking, built with Laravel (API) and React (frontend).
 
